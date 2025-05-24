@@ -83,5 +83,5 @@ int main() {
 ![cry ex 11](https://github.com/user-attachments/assets/d266ccb9-3d22-4ec8-bed8-d834431f6b9f)
 
 ## Result:
-The program is executed successfully
+The program is to implement elliptic curve are executed successfully
 
